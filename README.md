@@ -1,89 +1,89 @@
-# DDEmo - 情感交互故事应用
+# DDEmo - Emotional Interactive Story Application
 
-这是一个基于Unity开发的交互式情感故事应用，通过小企鹅Pip的冒险故事来帮助用户理解和表达各种情绪。应用集成了语音合成、动画控制和网络通信功能，支持情感识别和姿势分析的实时反馈。
+This is an interactive emotional story application developed with Unity, designed to help users understand and express various emotions through the adventure story of a little penguin named Pip. The application integrates text-to-speech, animation control, and network communication features, supporting real-time feedback for emotion recognition and posture analysis.
 
-## 项目特点
+## Project Features
 
-- **交互式故事体验**：跟随小企鹅Pip的冒险旅程，体验不同情绪状态
-- **语音合成**：使用讯飞TTS技术实现角色语音对话
-- **情感识别**：通过TCP通信接收外部情感分析数据并给予反馈
-- **动画控制系统**：根据故事情节和用户反馈触发相应角色动画
-- **进度追踪**：实时显示故事进度和用户表现评分
-- **多情绪表达**：包含高兴、惊讶、害怕、悲伤、愤怒、厌恶等多种情绪场景
+- **Interactive Story Experience**: Follow little penguin Pip's adventure journey and experience different emotional states
+- **Text-to-Speech**: Implement character voice dialogue using iFlytek TTS technology
+- **Emotion Recognition**: Receive external emotion analysis data through TCP communication and provide feedback
+- **Animation Control System**: Trigger corresponding character animations based on story progression and user feedback
+- **Progress Tracking**: Real-time display of story progress and user performance ratings
+- **Multiple Emotion Expressions**: Includes happy, surprised, scared, sad, angry, disgusted, and other emotional scenarios
 
-## 技术栈
+## Technology Stack
 
-- **开发引擎**：Unity 3D
-- **编程语言**：C#
-- **语音技术**：讯飞语音合成（XunFeiSpeech.TTS）
-- **网络通信**：TCP客户端/服务器架构
-- **动画系统**：Unity Animation
-- **UI系统**：Unity UI
+- **Development Engine**: Unity 3D
+- **Programming Language**: C#
+- **Speech Technology**: iFlytek Speech Synthesis (XunFeiSpeech.TTS)
+- **Network Communication**: TCP client/server architecture
+- **Animation System**: Unity Animation
+- **UI System**: Unity UI
 
-## 项目结构
+## Project Structure
 
 ```
 Assets/
-├── Fonts/           # 字体资源
-├── Images/          # 图像资源（背景、气泡文本等）
-├── Models/          # 3D模型资源
-├── Musics/          # 音乐资源
-├── Resources/       # 通用资源（表情等）
-├── Scenes/          # 游戏场景
-└── Scripts/         # C#脚本
-    ├── MainScript.cs         # 主脚本入口
-    ├── SpeechSpeak.cs        # 语音合成和故事控制
-    ├── TCPClient.cs          # TCP网络通信
-    ├── TcpServer.cs          # TCP服务器实现
-    └── 其他辅助脚本
+├── Fonts/           # Font resources
+├── Images/          # Image resources (backgrounds, text bubbles, etc.)
+├── Models/          # 3D model resources
+├── Musics/          # Music resources
+├── Resources/       # General resources (expressions, etc.)
+├── Scenes/          # Game scenes
+└── Scripts/         # C# scripts
+    ├── MainScript.cs         # Main script entry point
+    ├── SpeechSpeak.cs        # Speech synthesis and story control
+    ├── TCPClient.cs          # TCP network communication
+    ├── TcpServer.cs          # TCP server implementation
+    └── Other auxiliary scripts
 ```
 
-## 核心功能模块
+## Core Function Modules
 
-### 1. 故事控制系统 (SpeechSpeak.cs)
+### 1. Story Control System (SpeechSpeak.cs)
 
-- 管理故事的播放流程和对话序列
-- 控制角色动画和表情变化
-- 处理用户情感评分和反馈
-- 显示故事进度和评价
+- Manage story playback flow and dialogue sequences
+- Control character animations and expression changes
+- Process user emotion scores and feedback
+- Display story progress and evaluations
 
-### 2. 网络通信模块 (TCPClient.cs)
+### 2. Network Communication Module (TCPClient.cs)
 
-- 与外部情感分析系统建立TCP连接
-- 发送和接收实时情感数据
-- 在Unity主线程中处理接收到的消息
+- Establish TCP connection with external emotion analysis system
+- Send and receive real-time emotion data
+- Process received messages in Unity's main thread
 
-### 3. 动画控制
+### 3. Animation Control
 
-- 根据故事情节切换角色表情和动作
-- 实现气泡文本的显示效果
-- 控制场景切换和过渡效果
+- Switch character expressions and movements based on story progression
+- Implement text bubble display effects
+- Control scene transitions and effects
 
-## 安装说明
+## Installation Instructions
 
-1. 克隆或下载项目到本地
-2. 使用Unity（推荐2019.4或更高版本）打开项目
-3. 确保已安装必要的依赖包（特别是讯飞语音SDK）
-4. 在Unity编辑器中构建并运行项目
+1. Clone or download the project to your local machine
+2. Open the project with Unity (version 2019.4 or higher recommended)
+3. Ensure necessary dependency packages are installed (especially iFlytek Speech SDK)
+4. Build and run the project in Unity Editor
 
-## 使用方法
+## Usage
 
-1. 启动应用程序
-2. 跟随小企鹅Pip的故事进展
-3. 根据故事提示表达相应的情感
-4. 系统会通过TCP接收情感分析数据并给出实时反馈
-5. 完成所有情感场景后，可以查看最终得分
+1. Start the application
+2. Follow the story progression of little penguin Pip
+3. Express corresponding emotions according to story prompts
+4. The system will receive emotion analysis data through TCP and provide real-time feedback
+5. After completing all emotional scenarios, you can view your final score
 
-## 网络配置
+## Network Configuration
 
-应用默认连接到本地TCP服务器（127.0.0.1:8080）。如需修改连接设置，请在TCPClient组件中调整以下参数：
+The application connects to a local TCP server (127.0.0.1:8080) by default. To modify connection settings, adjust the following parameters in the TCPClient component:
 
-- `serverIP`：服务器IP地址
-- `serverPort`：服务器端口号
+- `serverIP`: Server IP address
+- `serverPort`: Server port number
 
-## 数据格式
+## Data Format
 
-应用接收的情感分析数据格式为JSON，示例：
+The emotion analysis data received by the application is in JSON format, example:
 
 ```json
 {
@@ -97,26 +97,26 @@ Assets/
 }
 ```
 
-## 注意事项
+## Notes
 
-1. 使用前请确保外部情感分析系统已启动并监听正确的端口
-2. 应用会在StreamingAssets目录下生成Logs.txt记录接收到的数据
-3. 如果网络连接失败，应用将无法接收情感分析反馈
+1. Ensure the external emotion analysis system is running and listening on the correct port before use
+2. The application will generate Logs.txt in the StreamingAssets directory to record received data
+3. If network connection fails, the application will not be able to receive emotion analysis feedback
 
-## 扩展开发
+## Extension Development
 
-如需添加新的故事场景或情感类型，请修改SpeechSpeak.cs中的相关方法，特别是以下部分：
+To add new story scenes or emotion types, modify the relevant methods in SpeechSpeak.cs, especially the following parts:
 
-- OnCallBack方法：处理语音播放完成后的回调
-- ReciveScore方法：处理接收到的情感评分
-- EnterFirstSpeek和EnterQiESpeek协程：控制故事流程切换
+- OnCallBack method: Handles callbacks after speech playback completes
+- ReciveScore method: Processes received emotion scores
+- EnterFirstSpeek and EnterQiESpeek coroutines: Controls story flow switching
 
 ---
 
-## 许可证
+## License
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-## 联系方式
+## Contact
 
-如有问题或建议，请联系项目维护者。
+For questions or suggestions, please contact the project maintainer.
