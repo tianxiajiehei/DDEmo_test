@@ -1,0 +1,1 @@
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}

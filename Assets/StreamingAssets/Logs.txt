@@ -1,0 +1,1398 @@
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happys"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Surprises"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happiness"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Fea"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.741278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.741278064250946, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5520898699760437, "error": null}, "pose": {"actions": ["Neutral", "Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8204062581062317, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7380293607711792, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.657988429069519, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6816886067390442, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5765790343284607, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8676114678382874, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8359487056732178, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7753685712814331, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.42727547883987427, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8418063521385193, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8108305335044861, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6911365985870361, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7149930596351624, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.842268168926239, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4089662730693817, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7550504803657532, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8370860815048218, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8256396055221558, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.6054642796516418, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7026879191398621, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7084457278251648, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7161931395530701, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.36925843358039856, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5168795585632324, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4817465841770172, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.4613271653652191, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6879786849021912, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7528315782546997, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.419449120759964, "error": null}, "pose": {"actions": null, "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8742604851722717, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4224010109901428, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7372357845306396, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4343089163303375, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8686904907226562, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8678937554359436, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8733036518096924, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.29357579350471497, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5788648128509521, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8785112500190735, "error": null}, "pose": {"actions": ["Surprise", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8701632022857666, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8256984353065491, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.36975759267807007, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.6233658790588379, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8573026061058044, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8730404376983643, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7763838768005371, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8728017210960388, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8166059255599976, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.856111466884613, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.29620590806007385, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.26456180214881897, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8124032020568848, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5861287117004395, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.44124385714530945, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6792370676994324, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7877681851387024, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6719468832015991, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.39921799302101135, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.6468289494514465, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.614569902420044, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7750914692878723, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6856878995895386, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5704820156097412, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.37232980132102966, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7443116903305054, "error": null}, "pose": {"actions": ["Disgust", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.442426860332489, "error": null}, "pose": {"actions": null, "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6916422247886658, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8754000663757324, "error": null}, "pose": {"actions": null, "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.42149052023887634, "error": null}, "pose": {"actions": null, "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8174611330032349, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.2255968302488327, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.3385271430015564, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6831666827201843, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.50034499168396, "error": null}, "pose": {"actions": ["Sad", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7822762727737427, "error": null}, "pose": {"actions": ["Disgust", "Neutral", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.36606502532958984, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5794183015823364, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6843453049659729, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.25048500299453735, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7051424980163574, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.253320574760437, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.30693843960762024, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7416133284568787, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7584015727043152, "error": null}, "pose": {"actions": ["Angry", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7864012122154236, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.863605260848999, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4667319655418396, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5527252554893494, "error": null}, "pose": {"actions": ["Disgust", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5580675005912781, "error": null}, "pose": {"actions": ["Sad", "Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.4336360692977905, "error": null}, "pose": {"actions": ["Sad", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6785686612129211, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5287652611732483, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4329795837402344, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2883989214897156, "error": null}, "pose": {"actions": ["Angry", "Fear", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5786048173904419, "error": null}, "pose": {"actions": ["Fear", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7335144877433777, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.762768030166626, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.776270866394043, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Disgust", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8052812218666077, "error": null}, "pose": {"actions": ["Neutral", "Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5682889223098755, "error": null}, "pose": {"actions": ["Disgust", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.830814778804779, "error": null}, "pose": {"actions": ["Disgust", "Fear", "Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.5857639312744141, "error": null}, "pose": {"actions": ["Fear", "Neutral", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.42823734879493713, "error": null}, "pose": {"actions": ["Fear", "Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.24125629663467407, "error": null}, "pose": {"actions": ["Neutral", "Neutral", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.4698263704776764, "error": null}, "pose": {"actions": ["Sad", "Happy", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.46206697821617126, "error": null}, "pose": {"actions": ["Sad", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.443773090839386, "error": null}, "pose": {"actions": ["Sad", "Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5223874449729919, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6827017664909363, "error": null}, "pose": {"actions": ["Sad", "Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.28257784247398376, "error": null}, "pose": {"actions": ["Sad", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6927078366279602, "error": null}, "pose": {"actions": ["Fear", "Happy", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6610631942749023, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6060608625411987, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5995898246765137, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5733546614646912, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7704365849494934, "error": null}, "pose": {"actions": ["Sad", "Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.27505433559417725, "error": null}, "pose": {"actions": ["Sad", "Sad", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.43802422285079956, "error": null}, "pose": {"actions": ["Angry", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4290216863155365, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8355918526649475, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.48471003770828247, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8008006811141968, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7772032022476196, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5320429801940918, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5080282092094421, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6920209527015686, "error": null}, "pose": {"actions": ["Sad", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7937822341918945, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5230509042739868, "error": null}, "pose": {"actions": ["Surprise", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5082794427871704, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.6516368389129639, "error": null}, "pose": {"actions": ["Angry", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5087942481040955, "error": null}, "pose": {"actions": ["Angry", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8500942587852478, "error": null}, "pose": {"actions": ["Neutral", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8702707886695862, "error": null}, "pose": {"actions": ["Disgust", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3746815025806427, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8262032866477966, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8350144028663635, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6971562504768372, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6161150336265564, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.4014033079147339, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5363079905509949, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.2774147391319275, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7009841203689575, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.42064210772514343, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.3901236057281494, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.48590222001075745, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.5798708200454712, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5525222420692444, "error": null}, "pose": {"actions": ["Fear", "Disgust"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.22563712298870087, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6074579358100891, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.8102946877479553, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5843959450721741, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3406219482421875, "error": null}, "pose": {"actions": ["Fear", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Fear", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Fear", "Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7298176288604736, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.47898200154304504, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.818804919719696, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7808223962783813, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.4352801740169525, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.33913254737854004, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.4001046121120453, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7092580795288086, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.8042064905166626, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.39346227049827576, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.5105174779891968, "error": null}, "pose": {"actions": ["Happy", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Sad", "Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7270187735557556, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.3818841874599457, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.4166450798511505, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8260008096694946, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.3467061519622803, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.2949545681476593, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5195491313934326, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.29659801721572876, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7924479842185974, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8642421364784241, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8341969847679138, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5427143573760986, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8652873635292053, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4277209937572479, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7929456233978271, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8497763276100159, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.846788763999939, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7367562055587769, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7250362038612366, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7570660710334778, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8760722279548645, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8754218220710754, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6375332474708557, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8682200908660889, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8146443367004395, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8664547204971313, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8721160888671875, "error": null}, "pose": {"actions": ["Disgust", "Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5886549949645996, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8758189678192139, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8768944144248962, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8720852136611938, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8421156406402588, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8764952421188354, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8312172293663025, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.46564099192619324, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8703137040138245, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7949512004852295, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8749960660934448, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8649601936340332, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8747067451477051, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8658394813537598, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8755441904067993, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7488141655921936, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7590430378913879, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6792172789573669, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8763461709022522, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.875280499458313, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8722834587097168, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8727518320083618, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7165476083755493, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8444287776947021, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7872039079666138, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8642311692237854, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.454403281211853, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8101438879966736, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7367532849311829, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8404688835144043, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8550618886947632, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8387359976768494, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.521388828754425, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4648963212966919, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-21T12:31:12.726187+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.4868573844432831, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-21T12:31:38.361057+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7135304808616638, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T12:32:03.843454+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.2927212417125702, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T12:32:29.802193+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5259035229682922, "error": null}, "pose": {"actions": ["Fear"], "error": null}, "world_time": "2025-08-21T12:32:55.738082+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8209441304206848, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T12:53:57.098393+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.8129307627677917, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T12:54:23.442733+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3553893268108368, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T12:54:49.049527+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8520863056182861, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T12:55:14.420610+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8512948155403137, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:25:04.395715+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8550620675086975, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:25:30.015596+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8757761716842651, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-21T13:25:55.489272+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8800914883613586, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:27:05.010123+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8763516545295715, "error": null}, "pose": {"actions": ["Surprise"], "error": null}, "world_time": "2025-08-21T13:27:30.618240+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8630173206329346, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:28:22.417087+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7592684626579285, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:28:47.925140+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8667848706245422, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:29:13.382362+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.866854727268219, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:29:38.848528+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:30:04.285515+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5980226993560791, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:30:30.426008+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8281272649765015, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:30:55.877002+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8644287586212158, "error": null}, "pose": {"actions": ["Fear"], "error": null}, "world_time": "2025-08-21T13:31:21.333751+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8848077058792114, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:32:09.541152+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8675083518028259, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:32:35.010877+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8772516250610352, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:33:00.618346+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7757136821746826, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:33:26.094475+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8433061838150024, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:33:51.589614+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8055976629257202, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:34:17.069752+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5446203351020813, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:34:42.549873+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.4519056975841522, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:35:08.229226+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8560907244682312, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-21T13:35:34.033149+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7763513326644897, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:36:40.756942+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6132053136825562, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T13:37:06.218661+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8674985766410828, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:38:15.501918+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8579654693603516, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:38:41.060663+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7604004144668579, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:39:06.521142+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7383124232292175, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:39:31.986618+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8055391907691956, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:39:57.448993+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8799608945846558, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:40:22.919838+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8719815611839294, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:40:48.402917+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8770757913589478, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-21T13:41:13.842833+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8136288523674011, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:41:39.304444+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.34883245825767517, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:42:04.796391+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8820419311523438, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T13:42:30.371427+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8583052754402161, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:42:55.860975+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.40214651823043823, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:43:21.364329+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7609221339225769, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:43:46.809298+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8695563077926636, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:44:12.443500+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8231656551361084, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:44:37.926326+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3130252957344055, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:45:03.414913+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7726848721504211, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:45:28.919910+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8555401563644409, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:45:54.421787+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7675744295120239, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:46:19.921682+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8378649950027466, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:46:45.395236+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.4031606912612915, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:47:10.910167+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8794946670532227, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:47:36.415938+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.78282231092453, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:48:01.920628+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8326906561851501, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:48:27.415011+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8621552586555481, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:48:52.881340+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3530401885509491, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:49:18.372329+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:49:43.901102+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6824139356613159, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:50:09.377527+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6848819255828857, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T13:50:34.874107+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8652100563049316, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T13:51:00.372007+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.841278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-21T14:25:11.198192+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-21T14:25:17.640264+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5275487899780273, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}, "world_time": "2025-08-21T14:25:23.099186+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:25:28.612292+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-21T14:25:34.092050+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.33189600706100464, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:25:39.590764+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral", "Fear"], "error": null}, "world_time": "2025-08-21T14:25:45.049591+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.39969465136528015, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:25:50.533044+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5299355387687683, "error": null}, "pose": {"actions": ["Disgust", "Sad"], "error": null}, "world_time": "2025-08-21T14:25:55.997339+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5489176511764526, "error": null}, "pose": {"actions": ["Neutral", "Angry"], "error": null}, "world_time": "2025-08-21T14:26:01.469718+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3425919711589813, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-21T14:26:07.034943+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:26:12.657986+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5210182070732117, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:26:18.432346+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7531331181526184, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T14:26:24.075241+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3478035628795624, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:26:29.711076+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral", "Sad", "Fear"], "error": null}, "world_time": "2025-08-21T14:26:35.378092+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5577656626701355, "error": null}, "pose": {"actions": ["Neutral", "Fear", "Neutral"], "error": null}, "world_time": "2025-08-21T14:26:40.996102+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}, "world_time": "2025-08-21T14:26:46.650329+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral", "Neutral", "Neutral"], "error": null}, "world_time": "2025-08-21T14:28:52.519439+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6215717792510986, "error": null}, "pose": {"actions": ["Neutral", "Neutral", "Neutral"], "error": null}, "world_time": "2025-08-21T14:29:18.117726+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-21T14:29:43.574582+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6860515475273132, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-21T14:30:09.030782+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.33929720520973206, "error": null}, "pose": {"actions": ["Neutral", "Neutral", "Neutral"], "error": null}, "world_time": "2025-08-21T14:30:34.480958+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7717782258987427, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-21T14:30:59.931882+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.40545693039894104, "error": null}, "pose": {"actions": ["Neutral", "Neutral", "Neutral"], "error": null}, "world_time": "2025-08-21T14:31:25.401242+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.879226803779602, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T14:31:50.836690+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8845567107200623, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}, "world_time": "2025-08-21T14:32:16.366915+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7091661095619202, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:32:42.022196+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.37194928526878357, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:42:51.309298+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.3459842801094055, "error": null}, "pose": {"actions": ["Neutral", "Angry"], "error": null}, "world_time": "2025-08-21T14:43:38.078113+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.2662096619606018, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}, "world_time": "2025-08-21T14:44:23.625485+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2794303297996521, "error": null}, "pose": {"actions": ["Neutral", "Angry"], "error": null}, "world_time": "2025-08-21T14:45:09.174387+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7952941656112671, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-21T14:45:54.720307+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.4954860806465149, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:47:24.391289+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5370098352432251, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:48:09.991943+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.22815115749835968, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:48:55.741049+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7929335832595825, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:49:41.549742+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5335218906402588, "error": null}, "pose": {"actions": ["Surprise"], "error": null}, "world_time": "2025-08-21T14:50:27.216232+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8183333277702332, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-21T14:51:39.699023+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-21T14:52:25.495243+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.7031263709068298, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T04:13:24.102700+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4753110110759735, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T08:53:13.910018+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T08:53:39.535531+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T08:54:04.942010+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T08:54:30.351358+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T08:54:55.745528+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T08:55:21.175923+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Netural"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Netural"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Netural"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Netural"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Netural"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "netural", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Netural"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5096548795700073, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T11:57:22.545113+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T11:57:48.787981+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T11:58:14.215682+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.692078173160553, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T11:58:39.616968+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}, "world_time": ""}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}, "world_time": ""}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}, "world_time": "2025-08-22T08:53:39.535531+00:00"}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}, "world_time": "2025-08-22T08:53:39.535531+00:00"}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T08:54:30.351358+00:00"}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T08:54:30.351358+00:00"}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T08:54:30.351358+00:00"}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T08:54:30.351358+00:00"}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T08:54:30.351358+00:00"}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T08:54:30.351358+00:00"}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}
+ "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.541278064250946, "error": null}, "pose": {"actions": ["Surprise"], "error": null}, "world_time": "2025-08-21T12:31:12.726187+00:00"}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.3948422968387604, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.7948422968387604, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.7948422968387604, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.7948422968387604, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.22563712298870087, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.4352801740169525, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.22563712298870087, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.4352801740169525, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3553893268108368, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.37194928526878357, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2794303297996521, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.42823734879493713, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2883989214897156, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.22563712298870087, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3553893268108368, "error": null}, "pose": {"actions": ["neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.37194928526878357, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2794303297996521, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2883989214897156, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.39346227049827576, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.39346227049827576, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.22563712298870087, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.4352801740169525, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3553893268108368, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.37194928526878357, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "Neutral", "score": 0.5029930472373962, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.241278064250946, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.33495408296585083, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5226321220397949, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.26988309621810913, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.22563712298870087, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.4352801740169525, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disguat", "score": 0.3553893268108368, "error": null}, "pose": {"actions": ["Neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disguat", "score": 0.37194928526878357, "error": null}, "pose": {"actions": ["Disguat"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disguat", "score": 0.37194928526878357, "error": null}, "pose": {"actions": ["Disguat"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.37194928526878357, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2794303297996521, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2883989214897156, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.2794303297996521, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8492392897605896, "error": null}, "pose": {"actions": ["Angry", "Neutral"], "error": null}, "world_time": "2025-08-22T16:09:09.015189+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.564367949962616, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:09:34.936885+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.45418253540992737, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:10:01.512743+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.752598226070404, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-22T16:10:18.026510+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.7318954467773438, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-22T16:10:23.502175+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.4700084924697876, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-22T16:10:28.944583+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6377702355384827, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:10:45.453761+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6876097917556763, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-22T16:10:50.893736+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.3757803440093994, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-22T16:11:16.311373+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.26596713066101074, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:11:41.723016+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7470417618751526, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:12:07.140702+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8793950080871582, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T16:12:32.538353+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:12:57.935624+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T16:13:23.349705+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7779086828231812, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T16:14:33.165097+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8730113506317139, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:14:58.567893+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8355516791343689, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:15:23.962552+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8369298577308655, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:15:49.363766+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:16:14.757254+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:16:40.156420+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7687931656837463, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:17:05.554160+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.3746618926525116, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:17:30.961522+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-22T16:17:56.384642+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T16:18:21.786037+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8828590512275696, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-22T16:18:47.341275+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5283353924751282, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:19:12.742074+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.4043259620666504, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-22T16:19:38.132443+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:20:03.551263+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5822425484657288, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-22T16:20:28.953949+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6972149014472961, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:20:54.364507+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:21:19.769148+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.661289632320404, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:21:45.187877+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8420097231864929, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:22:32.626122+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8247313499450684, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:23:18.030028+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5562633275985718, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-22T16:24:03.453224+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.3965888023376465, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T16:24:48.881515+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:25:34.311006+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:26:19.742397+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.3072732985019684, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:27:05.174096+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:27:50.599597+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.7607010006904602, "error": null}, "pose": {"actions": ["Neutral", "Angry"], "error": null}, "world_time": "2025-08-22T16:28:36.070865+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-22T16:29:21.528240+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5820693373680115, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:30:06.971359+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8480231761932373, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:30:52.451837+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3524264097213745, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:31:38.086483+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6565060615539551, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:32:24.589758+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.42044076323509216, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:33:10.046406+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.727664053440094, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:33:55.490619+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.695442795753479, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:34:40.933634+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Sad"], "error": null}, "world_time": "2025-08-22T16:35:26.387065+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:36:11.852002+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Happy"], "error": null}, "world_time": "2025-08-22T16:36:57.328265+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:37:42.802929+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:38:28.268474+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad", "Angry"], "error": null}, "world_time": "2025-08-22T16:39:13.764945+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8443597555160522, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-22T16:39:59.275547+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-22T16:40:44.727424+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8267466425895691, "error": null}, "pose": {"actions": ["Sad", "Angry", "Sad"], "error": null}, "world_time": "2025-08-22T16:41:30.159548+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.40920379757881165, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:42:15.606777+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8776813745498657, "error": null}, "pose": {"actions": ["Sad", "Angry"], "error": null}, "world_time": "2025-08-22T16:43:02.149851+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8759098649024963, "error": null}, "pose": {"actions": ["Happy", "Neutral"], "error": null}, "world_time": "2025-08-22T16:43:47.612609+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5956156253814697, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-22T16:44:33.059004+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8492392897605896, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6377702355384827, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7779086828231812, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.7687931656837463, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8828590512275696, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["neutral"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.6972149014472961, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8492392897605896, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6377702355384827, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7779086828231812, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.7687931656837463, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8828590512275696, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5562633275985718, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8759098649024963, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6972149014472961, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8492392897605896, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7779086828231812, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8492392897605896, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6377702355384827, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8492392897605896, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6377702355384827, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7779086828231812, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.7687931656837463, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8828590512275696, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8759098649024963, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6972149014472961, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8492392897605896, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.6377702355384827, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7779086828231812, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.7687931656837463, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8828590512275696, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6972149014472961, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5562633275985718, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8759098649024963, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8800514340400696, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:23:02.166812+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5547475218772888, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:23:49.476320+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8421250581741333, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}, "world_time": "2025-08-23T00:24:34.936396+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.707183837890625, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:25:20.403601+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:26:05.860519+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.4611874222755432, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:26:51.313129+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:27:36.978499+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8561279773712158, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:28:22.451214+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8388999700546265, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:29:07.896582+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5027419328689575, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:29:53.385187+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5464458465576172, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:30:38.844161+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.729320764541626, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:31:24.551380+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:32:09.991345+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8736929297447205, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:32:56.143934+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5645428895950317, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:33:42.705146+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8234378695487976, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:34:28.312382+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7579600214958191, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T00:35:13.759187+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.5083611607551575, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-23T00:35:59.225389+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5158362984657288, "error": null}, "pose": {"actions": null, "error": null}, "world_time": "2025-08-23T00:36:44.845714+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.707183837890625, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.4611874222755432, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5547475218772888, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.5027419328689575, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8388999700546265, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.729320764541626, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.707183837890625, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.4611874222755432, "error": null}, "pose": {"actions": ["Surprise"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.5547475218772888, "error": null}, "pose": {"actions": ["Fear"], "error": null}}
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.5027419328689575, "error": null}, "pose": {"actions": ["Sad"], "error": null}}
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8388999700546265, "error": null}, "pose": {"actions": ["Angry"], "error": null}}
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.729320764541626, "error": null}, "pose": {"actions": ["Disgust"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8736929297447205, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5645428895950317, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7579600214958191, "error": null}, "pose": {"actions": ["Happy"], "error": null}}
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.6192759275436401, "error": null}, "pose": {"actions": ["Angry", "Neutral", "Neutral", "Neutral"], "error": null}, "world_time": "2025-08-23T02:35:46.165736+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7940658926963806, "error": null}, "pose": {"actions": ["Neutral", "Neutral", "Neutral"], "error": null}, "world_time": "2025-08-23T02:36:11.921992+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8019253015518188, "error": null}, "pose": {"actions": ["Sad", "Neutral"], "error": null}, "world_time": "2025-08-23T02:36:37.412521+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.27751651406288147, "error": null}, "pose": {"actions": ["Neutral", "Angry", "Fear"], "error": null}, "world_time": "2025-08-23T02:37:03.130289+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6852865815162659, "error": null}, "pose": {"actions": ["Neutral", "Neutral", "Neutral"], "error": null}, "world_time": "2025-08-23T02:37:28.810121+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5148702263832092, "error": null}, "pose": {"actions": ["Neutral", "Sad", "Neutral"], "error": null}, "world_time": "2025-08-23T02:37:54.469933+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.49820929765701294, "error": null}, "pose": {"actions": ["Angry", "Angry", "Neutral"], "error": null}, "world_time": "2025-08-23T07:36:04.806345+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7593737244606018, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-23T07:36:31.373172+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8479140400886536, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}, "world_time": "2025-08-23T07:36:57.127000+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5902500152587891, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T07:37:22.827288+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.674001157283783, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T07:37:48.478071+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8719969391822815, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-23T07:38:14.397329+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7410759925842285, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-23T14:58:22.460066+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7890920639038086, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-23T14:59:09.696187+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8665468096733093, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-23T15:00:39.071583+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6921807527542114, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-24T17:57:50.542771+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.5388922095298767, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-24T17:59:21.706169+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8774189949035645, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-27T08:40:10.586641+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-27T08:40:57.809956+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8470473289489746, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}, "world_time": "2025-08-27T08:41:43.214772+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.5628200173377991, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}, "world_time": "2025-08-27T08:42:28.608700+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8808769583702087, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T08:43:14.029934+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7036933302879333, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T08:44:00.244842+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.7136703729629517, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T08:44:45.878409+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8293502926826477, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T08:45:31.536882+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8379719853401184, "error": null}, "pose": {"actions": ["Fear"], "error": null}, "world_time": "2025-08-27T08:46:17.203526+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.4721796214580536, "error": null}, "pose": {"actions": ["Fear"], "error": null}, "world_time": "2025-08-27T08:47:02.933297+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8723759055137634, "error": null}, "pose": {"actions": ["Fear"], "error": null}, "world_time": "2025-08-27T08:47:48.615587+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.43048274517059326, "error": null}, "pose": {"actions": ["Fear"], "error": null}, "world_time": "2025-08-27T08:48:34.201254+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3619556725025177, "error": null}, "pose": {"actions": ["Fear"], "error": null}, "world_time": "2025-08-27T08:49:19.829068+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T08:50:05.542542+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8775652647018433, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}, "world_time": "2025-08-27T12:06:22.280822+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}, "world_time": "2025-08-27T12:07:08.042948+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8778722882270813, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}, "world_time": "2025-08-27T12:07:53.603538+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6333659887313843, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-27T12:08:39.004904+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.6579374074935913, "error": null}, "pose": {"actions": ["Angry", "Angry"], "error": null}, "world_time": "2025-08-27T12:09:24.451672+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8625671863555908, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-27T12:10:09.861918+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8796543478965759, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-27T12:10:55.278329+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8084466457366943, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:11:40.706740+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.6883315443992615, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:12:26.124800+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.6474815011024475, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-08-27T12:13:11.550728+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.3517725169658661, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:13:56.984587+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8644440174102783, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-27T12:14:42.422358+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8597403764724731, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-27T12:15:27.836951+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.827031135559082, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:16:13.284786+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8590908646583557, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:16:59.781319+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.34163621068000793, "error": null}, "pose": {"actions": ["Neutral", "Neutral"], "error": null}, "world_time": "2025-08-27T12:17:45.201660+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5770784020423889, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:18:30.644623+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7529401779174805, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:19:16.124068+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:20:01.627522+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8783527612686157, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:20:47.120239+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.4363359808921814, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-27T12:21:32.603756+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.28969380259513855, "error": null}, "pose": {"actions": ["Happy"], "error": null}, "world_time": "2025-08-27T12:23:02.102676+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5311535596847534, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-08-27T12:23:47.625009+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:24:33.134876+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:25:18.856762+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3638821244239807, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}, "world_time": "2025-08-27T12:26:04.325938+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:26:49.789896+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-08-27T12:27:36.299515+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": null, "error": null}, "world_time": "2025-08-27T12:28:21.824190+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6761440634727478, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-09-21T15:52:11.103153+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5963950157165527, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-09-21T15:52:17.829201+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.8096657395362854, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-09-21T15:52:23.293605+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.6424373984336853, "error": null}, "pose": {"actions": ["Neutral", "Angry"], "error": null}, "world_time": "2025-09-21T15:52:28.803347+00:00"}
+
+{"status": "ok", "audio": {"emotion": "sad", "score": 0.6007662415504456, "error": null}, "pose": {"actions": ["Neutral", "Sad"], "error": null}, "world_time": "2025-09-21T15:52:34.288104+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.3732571601867676, "error": null}, "pose": {"actions": ["Angry", "Sad"], "error": null}, "world_time": "2025-09-21T15:52:39.725971+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.3411668837070465, "error": null}, "pose": {"actions": ["Angry", "Sad"], "error": null}, "world_time": "2025-09-21T15:52:45.187754+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6182608008384705, "error": null}, "pose": {"actions": ["Angry", "Sad"], "error": null}, "world_time": "2025-09-21T15:52:50.633335+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5779053568840027, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-09-21T15:52:56.492167+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.6397634148597717, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-09-21T15:53:02.286123+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7420392036437988, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-09-21T15:53:07.750605+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.37276917695999146, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:54:25.348070+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:54:31.185739+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:54:36.644477+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-09-21T15:54:42.183272+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:54:47.668796+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:54:53.109303+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-09-21T15:54:58.586804+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.4322637617588043, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:55:04.041822+00:00"}
+
+{"status": "ok", "audio": {"emotion": "neutral", "score": 0.5255769491195679, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:55:09.496680+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.46107587218284607, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-09-21T15:55:14.940638+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.6501891016960144, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-09-21T15:57:31.004582+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.5883359909057617, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-09-21T15:57:36.838822+00:00"}
+
+{"status": "ok", "audio": {"emotion": "disgust", "score": 0.6611418724060059, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-09-21T15:58:52.649537+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T15:59:39.660809+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-09-21T16:00:25.143238+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T16:01:10.630635+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-09-21T16:01:56.097779+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7746310234069824, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-10-24T20:00:52.277287+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-10-24T20:00:59.080203+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-10-24T20:01:04.570786+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3461402654647827, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-10-24T20:02:49.735959+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.30738213658332825, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-10-24T20:02:55.715509+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.45650023221969604, "error": null}, "pose": {"actions": ["Angry"], "error": null}, "world_time": "2025-10-24T20:09:01.814267+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8618751764297485, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-10-24T20:09:09.876611+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8478268980979919, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-24T20:09:17.112787+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8099980354309082, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-24T20:09:23.058982+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8493776917457581, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-24T20:09:29.433203+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.7354299426078796, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-24T20:09:35.502072+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8365476727485657, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-24T20:09:41.496334+00:00"}
+
+{"status": "ok", "audio": {"emotion": "fear", "score": 0.8773853182792664, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-24T20:09:47.499015+00:00"}
+
+{"status": "ok", "audio": {"emotion": "happy", "score": 0.426387757062912, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-10-25T23:31:26.376022+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.8269070982933044, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:36:51.482489+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:36:57.485775+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.7163400053977966, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:37:03.010619+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.5455225110054016, "error": null}, "pose": {"actions": ["Neutral"], "error": null}, "world_time": "2025-10-25T23:39:29.739557+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:48:25.492234+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:48:31.643985+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:48:37.244840+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:48:42.949832+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:48:48.567064+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:48:54.236769+00:00"}
+
+{"status": "ok", "audio": {"emotion": "angry", "score": 0.3418009281158447, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:48:59.848791+00:00"}
+
+{"status": "ok", "audio": {"emotion": "surprise", "score": 0.24199867248535156, "error": null}, "pose": {"actions": ["Sad"], "error": null}, "world_time": "2025-10-25T23:50:27.601486+00:00"}
+
